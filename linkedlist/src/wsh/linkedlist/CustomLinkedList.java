@@ -1,4 +1,4 @@
-package com.wsh.linkedlist;
+package wsh.linkedlist;
 
 /**
  * 自定义LinkedList,帮助理解底层实现

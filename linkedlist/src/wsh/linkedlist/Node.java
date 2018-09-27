@@ -1,4 +1,4 @@
-package com.wsh.linkedlist;
+package wsh.linkedlist;
 
 /**
  * 节点类
