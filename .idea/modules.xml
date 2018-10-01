@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../java_collection/java_collection.iml" filepath="$PROJECT_DIR$/../java_collection/java_collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java_collection/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/../java_collection/linkedlist/linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java_collection/map/map.iml" filepath="$PROJECT_DIR$/../java_collection/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_collection/set/set.iml" filepath="$PROJECT_DIR$/../java_collection/set/set.iml" />
     </modules>
   </component>
 </project>
