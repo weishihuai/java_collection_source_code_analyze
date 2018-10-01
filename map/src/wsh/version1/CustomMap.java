@@ -1,4 +1,4 @@
-package wsh;
+package wsh.version1;
 
 /**
  * 自定义Map(版本一，效率较低，需要循环遍历找相同的key)

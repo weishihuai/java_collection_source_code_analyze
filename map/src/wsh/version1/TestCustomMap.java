@@ -1,4 +1,4 @@
-package wsh;
+package wsh.version1;
 
 /**
  * 测试自定义Map

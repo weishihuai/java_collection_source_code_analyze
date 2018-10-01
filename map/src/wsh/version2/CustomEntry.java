@@ -1,10 +1,10 @@
-package wsh;
+package wsh.version2;
 
 /**
  * 自定义Entry
  *
  * @author weishihuai
- * @date 2018/9/27 21:18
+ * @date 2018/10/01 16:18
  */
 public class CustomEntry {
     /**
