@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../java_collection/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/../java_collection/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_collection/iterator/iterator.iml" filepath="$PROJECT_DIR$/../java_collection/iterator/iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java_collection/java_collection.iml" filepath="$PROJECT_DIR$/../java_collection/java_collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java_collection/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/../java_collection/linkedlist/linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java_collection/map/map.iml" filepath="$PROJECT_DIR$/../java_collection/map/map.iml" />
